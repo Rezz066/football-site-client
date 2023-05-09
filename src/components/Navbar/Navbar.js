@@ -5,7 +5,6 @@ const Navbar = () => {
     return (
         <div className='navbar'>
           <Logo/>
-          
         </div>
     );
 };

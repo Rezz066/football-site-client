@@ -1,8 +1,11 @@
+import Logo from '../Logo/Logo';
+import './Navbar.scss';
 
 const Navbar = () => {
     return (
-        <div>
-            NavBar
+        <div className='navbar'>
+          <Logo/>
+          
         </div>
     );
 };
